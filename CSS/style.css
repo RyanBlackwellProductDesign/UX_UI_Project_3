@@ -1,3 +1,192 @@
-h1{
-    color: red;
-}
+.nav-link{
+    color: black;
+    font-size:24px;
+    font-family: Solway, serif;
+   
+ }
+ .nav-link:hover{
+    color: black;
+ }
+ .nav{
+ display: flex;
+ align-items: center;
+ }
+ .btn{
+    background-color: #94091D;
+    border: none;
+    font-size: 24px;
+    font-family: Solway, serif;
+    margin-left: 5px;
+ }
+ .btn:hover{
+    background-color:#740818;
+ }
+ .fa-search{
+    font-size: 24px;
+    width: 30px;
+    position: relative;
+    margin: 20px;
+ }
+ .fa-shopping-cart{
+    font-size: 24px;
+    width: 30px;
+    position: relative;
+    margin: 20px;
+ }
+ /*first jumbotron*/
+ .container{
+    max-width: 1600px;
+    padding: 0%;   
+    position: relative;
+    text-align: center;
+  
+ }
+ .text-start{
+    position: absolute;
+    bottom: 50%;
+    left: 100px;
+    font-family: Raleway, sans-serif;
+    font-size: 48px;
+   
+  
+ }
+ .btn-order-now{
+    position: absolute;
+    bottom: 30%;
+    left: 100px;
+    width: 200px;
+ }
+ /* second jumbotron */
+ .jumbo-2{
+    height: 540px;
+ }
+ .img-Olivia1{
+    width: 350px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 40px;
+ }
+ .img-title{
+    margin-left: 300px;
+ }
+ .about-text-box{
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    width: 50%;
+   float: right;
+   margin-right: 80px;
+   margin-top: 100px;
+ }
+ .para-text{
+    font-family: Assistant, sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+ }
+ .btn-story{
+    margin-left: 0px;
+    width:200px;
+  
+ }
+ .container-blue{
+    background-color: #A2DFE2;
+    height: 500px;
+ }
+ .celebrate-text-box{
+    font-family: Raleway, sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 55%;
+ }
+ .btn-special-occasions{
+    margin-left:0px;
+ }
+ .img-flamingo{
+    width: 350px;
+    margin-top: 50px;
+    margin-right: 40px;
+ }
+ .container-white{
+    height: 500px;
+ }
+ .img-cookie{
+    width: 350px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 40px;
+ }
+ .passion-text-box{
+    font-family: Raleway, sans-serif;
+    width: 50%;
+   float: right;
+   margin-right: 80px;
+   margin-top: 100px;
+ }
+ .btn-learn-more{
+    margin-left: 0px;
+ }
+ .container-pink{
+    height: 500px;
+    background-color: rgba(255, 153, 219, 0.49);
+    overflow: hidden;
+ }
+ .reviews-text-box{
+    font-family: Raleway, sans-serif;
+    margin-top: 70px;
+    justify-content: center;
+    align-items: center;
+ }
+ .reviews{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+ }
+ .review1box{
+    flex-grow: 1;
+    /* position: absolute; */
+    width: 50%;
+    height: 300px;
+  
+ }
+ .review1{
+    width: 350px;
+    font-family: Assistant, sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    margin-left: 120px;
+    margin-top: 50px;
+ }
+  
+ .review2box{
+    flex-grow: 1;
+    height: 300px;
+    width: 50%;
+ }
+ .review2{
+    width: 350px;
+    font-family: Assistant, sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    margin-left: 120px;
+    margin-top: 50px;
+ }
+ .blueheart{
+    color: blue;
+  
+ }
+ .btn-container{
+    height: 70px;
+    position: relative;
+ }
+ .btn-review{
+ margin-bottom:50px;
+  /* position: absolute; */
+  top: 0;
+  margin-left: 40%;
+ }
+ .img-footer{
+    width: 100%;
+    max-width: 1600px;
+    margin-top: -50px;
+ }
+ 
