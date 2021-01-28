@@ -237,5 +237,6 @@
  }
 
  .btn-check:focus+.btn-primary, .btn-primary:focus {
+    outline-color: #ffffff;
     background-color: #740818;
 }
