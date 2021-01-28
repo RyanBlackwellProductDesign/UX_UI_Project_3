@@ -235,3 +235,7 @@
  .spacing-border{
     height: 50px;
  }
+
+ .btn-check:focus+.btn-primary, .btn-primary:focus {
+    background-color: #740818;
+}
